@@ -1,0 +1,1 @@
+CREATE TABLE address (id int AUTO_INCREMENT PRIMARY KEY, name VARCHAR(20),street VARCHAR(20), pincode VARCHAR(20));
